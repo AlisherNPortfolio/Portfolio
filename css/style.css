@@ -1254,6 +1254,10 @@ span.border.two:after {
 	-moz-opacity: 0;
 	filter: alpha(opacity=0);
 }
+
+.col-md-6.wthree_about_right_grid {
+	min-height: 135px;
+  }
 /*-- responsive-design --*/
 @media(max-width:1366px){
 	.about-left-grid {
